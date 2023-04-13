@@ -1,6 +1,7 @@
 # TP N°0 - Paradigma de programacion -
 
 ## Bienvenido a mi perfil y desde ya gracias por pasar por aqui 👋
+![mi foto](mifoto)
 
 >* Alumno: Tolaba Alex
 >* legajo: 174 393-4
